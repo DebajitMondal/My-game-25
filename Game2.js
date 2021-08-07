@@ -1,0 +1,26 @@
+class Game {
+    constructor(){
+  
+    }
+    play(){
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    }
+
+
+
+}  
